@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">Database</string>
+
+    <string name="one" translatable="false">one</string>
+    <string name="two" translatable="false">two</string>
+    <string name="three" translatable="false">three</string>
+    <string name="four" translatable="false">four</string>
+    <string name="five" translatable="false">five</string>
+    <string name="six" translatable="false">six</string>
+    <string name="seven" translatable="false">seven</string>
+    <string name="eight" translatable="false">eight</string>
+    <string name="nine" translatable="false">nine</string>
+    <string name="ten" translatable="false">ten</string>
+    <string name="hundren" translatable="false">hundre</string>
+    <string name="thousand" translatable="false">thousand</string>
+
+
+    <string name="bir">bir</string>
+    <string name="ikki">ikki</string>
+    <string name="uch">uch</string>
+    <string name="tort">to`rt</string>
+    <string name="besh">besh</string>
+    <string name="olti">olti</string>
+    <string name="yetti">yetti</string>
+    <string name="sakkiz">sakkiz</string>
+    <string name="toqqiz">to`qqiz</string>
+    <string name="on">o`n</string>
+    <string name="yuz">yuz</string>
+    <string name="ming">ming</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
